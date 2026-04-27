@@ -25,7 +25,7 @@ I am a QA Engineer focused on bridging the gap between complex software developm
 ---
 
 ### 🚀 Achievements & Projects
-- **Java core Mastery:** Successfully architected and solved 127+ advanced programming challenges.
+- **Java core Mastery:** Successfully architected and solved 500+ advanced programming challenges.
 - **End-to-End Automation:** Developed a data-driven testing framework using Selenium.
 - **SQL Expert:** Proficient in managing and querying relational databases.
 
