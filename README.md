@@ -31,6 +31,6 @@ I am a QA Engineer focused on bridging the gap between complex software developm
 
 ---
 
-### 📫 Connect with me
-- 📍 Based in Belgrade, Serbia.
-- ⚡ I believe that "good enough" is the enemy of quality.
+### Connect with me
+- Based in Belgrade, Serbia.
+- I believe that "good enough" is the enemy of quality.
