@@ -1,11 +1,11 @@
 # Hi, I'm Gordana 👋
 
-### 🎯 Software Quality Excellence
+### Software Quality Excellence
 I am a QA Engineer focused on bridging the gap between complex software development and seamless user experience. My expertise lies in a disciplined approach to the **SDLC**, combining analytical manual testing with scalable **Java-based automation**.
 
 ---
 
-### 💻 Technical Expertise
+### Technical Expertise
 
 **Automation & Development Frameworks:**
 - **Web Automation:** Advanced Selenium WebDriver (Wait strategies, Locators, JS Executor).
@@ -24,7 +24,7 @@ I am a QA Engineer focused on bridging the gap between complex software developm
 
 ---
 
-### 🚀 Achievements & Projects
+### Achievements & Projects
 - **Java core Mastery:** Successfully architected and solved 500+ advanced programming challenges.
 - **End-to-End Automation:** Developed a data-driven testing framework using Selenium.
 - **SQL Expert:** Proficient in managing and querying relational databases.
